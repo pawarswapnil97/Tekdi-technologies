@@ -1,0 +1,52 @@
+.bg-background {
+  height: 600px;
+  width: 100%;
+  background-color: white;
+}
+.banner {
+  height: 530px;
+  width: 100%;
+  background-image: url(/assets/Img/bg-home.jpg);
+  background-size: 100% 130%;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  background-color: #09225a;
+  padding: 70px 30px 20px;
+  border-left: 1px solid white;
+}
+
+.bg-img {
+  width: 100%;
+  background: fixed;
+  background-size: 100% 90%;
+  background-image: url(/assets/Img/industries-bg.png);
+}
+.box1 {
+  width: 290px;
+  height: 300px;
+}
+.join-us-img {
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  background-size: cover;
+}
+
+.service-img {
+  height: 50px;
+  width: 200px;
+}
+
+.footer-img {
+  height: 350px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(/assets/Img/lets-transform-bg.jpg);
+}
+.footer {
+  background-color: #010836;
+  padding: 15px;
+}
